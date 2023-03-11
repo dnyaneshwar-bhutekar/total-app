@@ -1,0 +1,11 @@
+---
+#list
+- Banana
+- Apple
+- Mango
+---
+cities:
+- New delhi
+- mumbai
+- gujrat
+...
